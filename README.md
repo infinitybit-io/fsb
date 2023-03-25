@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/consensys/quorum/master/logo.png" width="200" height="35"/>
+# <img src="https://infinitybit.io/ibit-200x200.png" width="200" height="200"/>
 
 
 ![Build Check](https://github.com/jpmorganchase/quorum/workflows/Build%20Check/badge.svg?branch=master)
@@ -6,9 +6,7 @@
 [![Discord](https://img.shields.io/discord/697535391594446898)](https://discord.com/channels/697535391594446898/747810572937986240)
 
 
-GoQuorum is an Ethereum-based distributed ledger protocol with transaction/contract privacy and new consensus mechanisms.
-
-GoQuorum is a fork of [go-ethereum](https://github.com/ethereum/go-ethereum) and is updated in line with go-ethereum releases.
+InfinityBitFSB is a Ethereum-based distributed ledger protocol forked from Quorum.
 
 Key enhancements over go-ethereum:
 

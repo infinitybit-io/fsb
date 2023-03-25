@@ -1,4 +1,4 @@
-# <img src="https://infinitybit.io/ibit-200x200.png" width="200" height="200"/>
+# <img src="https://infinitybit.io/ibit-200x200.png" width="200" height="200"/> InfinityBit FSB
 
 
 ![Build Check](https://github.com/jpmorganchase/quorum/workflows/Build%20Check/badge.svg?branch=master)

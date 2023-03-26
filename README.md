@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/discord/697535391594446898)](https://discord.com/channels/697535391594446898/747810572937986240)
 
 
-InfinityBitFSB is a Ethereum-based distributed ledger protocol forked from Quorum.
+InfinityBit FSBQ is a Ethereum-based distributed ledger protocol forked from Quorum.
 
 Key enhancements over go-ethereum:
 
